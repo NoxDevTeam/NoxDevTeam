@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-Here are some ideas to get you started:
+# About Me:
 
 - 🔭 I’m currently working on Unreal Engine
 - 🌱 I’m currently learning C++
@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="php" width="45" height="45"/>
+</p>
+<h2> 🚀 &nbsp;Github History</h2>
+<p align="left">
+  <img src="![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)"/>
+
 </p>
