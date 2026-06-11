@@ -23,6 +23,6 @@
 </p>
 <h2> 🚀 &nbsp;Github History</h2>
 <p align="left">
-  <img src="![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)"/>
+  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
