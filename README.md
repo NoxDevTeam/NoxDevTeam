@@ -24,5 +24,6 @@
 <h2> 🚀 &nbsp;Github History</h2>
 <p align="left">
   <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)"/>
 
 </p>
