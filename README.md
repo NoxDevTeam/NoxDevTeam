@@ -6,7 +6,7 @@
 </p>
 # About Me:
 
-- 🔭 I’m currently working on Unity
+- 🔭 I’m currently working on Unity, SQL
 - 🌱 I’m currently learning C#
 - 💬 Ask me about Anything You Want
 - 📫 How to reach me: Send Me Email On: noxofficialdev@gmail.com
